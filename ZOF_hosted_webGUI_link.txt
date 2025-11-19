@@ -1,7 +1,7 @@
 Name: ONUEGBU Udochukwu
 Matric Number: 22CG031937
-Live URL: [Your deployed application URL - will be available after deployment]
-GitHub Repository: [Your GitHub repository link]
+Live URL: https://zof-project-22cg031937.onrender.com
+GitHub Repository: https://github.com/OnuegbuUdochukwu/ZOF_Project_22CG031937
 
 Deployment Instructions:
 =========================
